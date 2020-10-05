@@ -15,5 +15,16 @@
 		- all 4 additional additions from Base Burger plus 2 addition items that can be added
 	// So the healthy burger can have 6 items (Additions) in total.
 	// Each one of these items gets charged an additional price so I figured out how many items got added and to calculate the final price (specific burger with all the additions).
-       	// In this project I used Ineritance 
+       	 
+	
+# Mobile Phone Project
+	// In this project I simulate a small interaction between Contact mobile phone application and the User
+	// From application you can: - exit
+				     - print existing contacts
+				     - add a new contact
+				     - update an existing contact
+				     - remove an existing contact
+				     - query in an existing contact exists
+				     - print the list of available actions
+				  
         
