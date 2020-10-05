@@ -16,10 +16,11 @@
 	// So the healthy burger can have 6 items (Additions) in total.
 	// Each Hamburger has a base price, without any additional items.
 	// Each one of these items gets charged an additional price so I figured out how many items got added and to calculate the final price (specific burger with all the additions).
+	// The project starts running from main.
        	 
 	
 # Mobile Phone Project
-	// In this project I simulate a small interaction between a Contact mobile phone application and the User
+	// In this project I simulate a small interaction between a Contact mobile phone application and the User.
 	// From application you can: - exit
 				     - print existing contacts
 				     - add a new contact
@@ -28,10 +29,11 @@
 				     - query in an existing contact exists
 				     - print the list of available actions
         // The application starts every time with 0 contacts.
+	// The project starts running from main.
 	
 	
 # PlayList Project
-	// This project simulate a playlist which has some songs from 2 different albums ("Stormbringer" from Deep Purple and "For those about to rock" from AC/DC)
+	// This project simulate a playlist which has some songs from 2 different albums ("Stormbringer" from Deep Purple and "For those about to rock" from AC/DC).
 	// The application starts by playing the first song from the playlist.
 	// I created a menu, as well, so the user can: - shutdown the app
 						       - play next song
@@ -40,4 +42,4 @@
 						       - print the playlist
 						       - delete current song from playlist
 						       - print the menu app
-	// The project starts running from main 
+	// The project starts running from main.
