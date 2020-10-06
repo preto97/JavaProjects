@@ -1,10 +1,12 @@
 package com.company;
 
+// I created the Contact class with fields name and phoneNumnber
 public class Contact {
 
     private String name;
     private String phoneNumber;
 
+    // This is Contact constructor
     public Contact(String name, String phoneNumber) {
         this.name = name;
         this.phoneNumber = phoneNumber;
